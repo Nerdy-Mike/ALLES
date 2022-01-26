@@ -86,7 +86,7 @@ export default class SocialMedia extends React.Component {
                 <Link href="/about">
                   <a className="d-flex py-3 align-items-center font-color-black borderbottom border-color-black">
                     <p className="mr-3">Follow us</p>
-                    <Image src="/icon/arrow-long-right.svg" alt="Arrow icon"/>
+                    <Image src="/icon/arrow-long-right.svg" alt="Arrow icon" width={20} height={20}/>
                   </a>
                 </Link>
               </div>

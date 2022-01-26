@@ -81,7 +81,7 @@ export default class ExploreBanner extends React.Component {
                   <Link href="/collection">
                     <a className="d-flex py-3 align-items-center font-color-black borderbottom border-color-black">
                       <p className="mr-3">Explore products</p>
-                      <Image src="/icon/arrow-long-right.svg" alt='' />
+                      <Image src="/icon/arrow-long-right.svg" alt='' layout='fill' />
                     </a>
                   </Link>
                 </div>

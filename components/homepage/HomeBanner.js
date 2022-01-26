@@ -16,7 +16,7 @@ export default function HomeBanner() {
         <Link href="/about">
           <a className="d-flex py-3 align-items-center font-color-black borderbottom border-color-black">
             <p className="mr-3">Find out more</p>
-            <Image src="/icon/arrow-long-right.svg" />
+            <Image src="/icon/arrow-long-right.svg" width={25} height={25}/>
           </a>
         </Link>
       </div>
